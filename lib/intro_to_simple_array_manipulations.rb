@@ -31,4 +31,4 @@ def using_insert(array, element)
 end
 
 def uniq(array)
-  
+  arra
